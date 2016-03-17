@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var c = require("skilstak-colors");
+
+console.log(c.clear)
+while (true) { 
+
+  console.log(c.multi+('meow')
+}
